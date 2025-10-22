@@ -1,0 +1,10 @@
+{
+	"name": "starlogin",
+	"version": "1.0.0",
+	"plugin_id": "starlogin",
+	"author": "ZhiYu",
+	"description": "服务器登录插件",
+	"tags": ["登录"],
+	"entry": "main.js",
+	"contents": "服务器登录插件"
+}

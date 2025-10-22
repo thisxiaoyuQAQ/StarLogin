@@ -1,0 +1,1 @@
+/// <reference path="./plugin-logger.d.ts" />
