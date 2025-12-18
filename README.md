@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**为你的 Minecraft 服务器提供军事级安全保护** 🛡️
+**为你的 Minecraft 服务器提供高级安全保护** 🛡️
 
 </div>
 
