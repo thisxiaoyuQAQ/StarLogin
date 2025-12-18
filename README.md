@@ -235,7 +235,7 @@ StarLogin
 ### 游戏内效果
 ```
 [系统] §a§lSteve 请完成验证
-[系统] §a§l请私聊机器人(725439308)并发送: #login 456789
+[系统] §a§l请私聊机器人(XXXXXXXXX)并发送: #login 456789
 
 验证成功后:
 [系统] §a§lSteve 欢迎回家!
@@ -352,8 +352,7 @@ git push origin feature/amazing-feature
 **ZhiYu**
 
 - 💼 作者主页: [GitHub Profile](https://github.com/thisxiaoyuQAQ)
-- 📧 联系邮箱: your.email@example.com
-- 🎮 Discord: YourDiscord#1234
+- 📧 联系邮箱: zhiyu@linux.do
 
 ---
 
@@ -361,7 +360,7 @@ git push origin feature/amazing-feature
 
 感谢以下项目和社区的支持:
 
-- [EasyBot SDK](https://github.com/easybot) - 强大的机器人开发框架
+- [EasyBot SDK](https://docs.inectar.cn/docs/easybot/intor) - 强大的机器人开发框架和狗作者
 - Minecraft 服务器社区
 - 所有为本项目做出贡献的开发者
 
